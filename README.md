@@ -1,3 +1,3 @@
-Aplikasi Nilai Kurang bagian NIlai
+Aplikasi Nilai. 
 Dengan Isian:
 Guru, Kelas, Mapel, Siswa
